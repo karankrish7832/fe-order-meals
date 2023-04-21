@@ -1,0 +1,36 @@
+body {
+    background: #2d2013;
+    color: #fff;
+}
+
+.custom-input {
+    width: 18rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    border-radius: 0.2rem;
+    border: none;
+    outline: none;
+    padding: 0.2rem 0.8rem;
+}
+
+button {
+    min-width: 7rem;
+    height: 3rem;
+    border-radius: 0.4rem;
+    border: 0;
+    outline: 0;
+    font-weight: 600;
+}
+
+button:hover {
+    border: 1px solid #04AA6D;
+    color: #04AA6D;
+}
+
+.checkout-btn {
+    width: 10rem;
+}
+
+.field-label {
+    font-weight: 600;
+}

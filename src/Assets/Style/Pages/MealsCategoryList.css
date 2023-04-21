@@ -1,0 +1,15 @@
+.main-header {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.category-thumbs-nail {
+    width: 20rem;
+    height: auto;
+}
+
+.meals-thumbs-nail {
+    width: 20rem;
+    height: auto;
+    border-radius: 5rem;
+}
